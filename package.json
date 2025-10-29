@@ -1,8 +1,9 @@
 {
-  "name": "src",
+  "name": "writing-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://phlyk.github.io/writing-portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
